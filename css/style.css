@@ -1,9 +1,5 @@
 /*
-Template Name: Woof!
-Author: Ingrid Kuhn
-Author URI: themeforest/user/ingridk
-Version: 1.0
-Last change:19th march 2018 
+
 
 	Table of Contents
 
@@ -24,9 +20,12 @@ Last change:19th march 2018
 	#Media Queries
 
 /*=========================== General and Typography ============================ */
+@media(max-width: 800px) and (min-width:451){
+
  body {
      font-family: 'Open Sans', sans-serif;
      color:#808080;
+}
 }
 
  p{
